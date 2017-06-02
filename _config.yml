@@ -1,0 +1,65 @@
+# @Author: Andree Ray <andreeray>
+# @Date:   2016-04-04T05:37:30+02:00
+# @Email:  info@andreeray.se
+# @Filename: _config.yml
+# @Last modified by:   andreeray
+# @Last modified time: 2017-06-03T01:06:41+02:00
+
+
+# Welcome to Jekyll!
+#
+
+# Site settings
+title: Sacre Tech
+description: |
+  open air lördag 3 juni kl 14
+owner: Your Name # or company name
+first_published: 2016 # if migrating another site, the year of your first publish
+email: your-email@domain.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+social:
+  twitter: https://twitter.com/<username>
+  github: https://github.com/<username>
+  linkedin-square: https://linkedin.com/in/<username>
+  facebook-official: https://facebook.com/<username>
+  google-plus-square: https://plus.google.com/u/0/+<username>
+  #email: /contact/
+  #flickr:
+  #instagram:
+  #youtube-square:
+  #spotify:
+  #stack-overflow:
+  #vimeo:
+  #reddit:
+  #stubleupon:
+  #delicious:
+  #pied-piper:
+  #digg:
+  #soundcloud:
+  #deviantart:
+  #angellist:
+  #tumblr-square:
+  #stackexchange:
+  #weibo:
+  #trello:
+  #foursquare:
+  #linux:
+  #bitbucket-square:
+  #vk:
+  #slack:
+  #vine:
+  #weixin:
+  #yelp:
+  #skyatlas:
+  #leanpub:
+  #connectdevelop:
+  #ils:
+  #forumbee:
+  #tripadvisor:
+  #amazon:
+
+# Build settings
+markdown: kramdown
+#sass:
+#  style: compressed
